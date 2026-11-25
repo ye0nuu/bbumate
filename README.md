@@ -1,3 +1,5 @@
+원본 저장소: [visuals-code/bbumate](https://github.com/visuals-code/bbumate)
+
 <p align="center">
   <img src="/public/thumbnail.png" alt="Thumbnail" width="800">
 </p>
